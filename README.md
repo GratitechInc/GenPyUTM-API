@@ -4,11 +4,11 @@ Produces folders with python code for the NASA/UTM-API OPENAPI using SwaggerGen 
 
 Requirements:
 
-Python3;
+Python3,
 
-SwaggerGen;
+SwaggerGen, 
 
-External internet access to: access GitHub and to download the most recent NASA/UTM-API OpenAPI specifications;
+External internet access to: access GitHub and to download the most recent NASA/UTM-API OpenAPI specifications, 
 
 Bandit: to scan for security vulnerabilities
 
